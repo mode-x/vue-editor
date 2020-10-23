@@ -1,0 +1,23 @@
+{
+  "name": "vue-editor",
+  "version": "0.1.1",
+  "description": "A wysiwyg editor for Vue.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mode-x/vue-editor.git"
+  },
+  "keywords": [
+    "wysiwyg",
+    "vue-editor"
+  ],
+  "author": "mode-x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mode-x/vue-editor/issues"
+  },
+  "homepage": "https://github.com/mode-x/vue-editor#readme"
+}
