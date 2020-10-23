@@ -1,5 +1,5 @@
 {
-  "name": "vue-editor",
+  "name": "vue-editrix",
   "version": "0.1.1",
   "description": "A wysiwyg editor for Vue.js applications.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mode-x/vue-editor.git"
+    "url": "git+https://github.com/mode-x/vue-editrix.git"
   },
   "keywords": [
     "wysiwyg",
@@ -17,7 +17,7 @@
   "author": "mode-x",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mode-x/vue-editor/issues"
+    "url": "https://github.com/mode-x/vue-editrix/issues"
   },
-  "homepage": "https://github.com/mode-x/vue-editor#readme"
+  "homepage": "https://github.com/mode-x/vue-editrix#readme"
 }
